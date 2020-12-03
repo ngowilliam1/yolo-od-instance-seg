@@ -23,7 +23,7 @@ conda activate tempAss3
 ```bash
 cd yolo
 wget https://pjreddie.com/media/files/yolov3.weights
-
+```
 
 ### Running code
 ```bash
