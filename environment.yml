@@ -1,0 +1,16 @@
+name: tempAss3
+
+channels:
+  - defaults
+dependencies:
+  - python==3.7
+  - pip
+  - pandas
+  - numpy
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - pip:
+    - opencv-contrib-python 
+    - openpyxl
+
